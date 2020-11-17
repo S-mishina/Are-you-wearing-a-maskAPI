@@ -15,5 +15,6 @@ table mask-ok-or-ng1<br>
 |day       | day   | 
 |time      | time  | 
 |ok-or-ng  | text  | 
+
 Are-you-wearing-a-mask側でマスクを検知するとsqlok()を実行<br>
 ngだとsqlng()を実行する.
