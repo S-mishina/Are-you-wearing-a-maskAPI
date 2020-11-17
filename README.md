@@ -8,8 +8,8 @@ $python server.py<br>
 $python client.py<br>
 # データベースの構成
 databasename:mask<br>
-table mask-ok-or-ng1<br>
-カラム　3<br>
+table:mask-ok-or-ng1<br>
+カラム:3<br>
 |name      |format 
 |:----------|-----:|
 |day       | day   | 
