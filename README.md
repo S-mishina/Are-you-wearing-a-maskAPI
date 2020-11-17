@@ -18,3 +18,6 @@ table mask-ok-or-ng1<br>
 
 Are-you-wearing-a-mask側でマスクを検知するとsqlok()を実行<br>
 ngだとsqlng()を実行する.
+# 音声の出力
+Are-you-wearing-a-mask側でマスクを検知するとok.wavを再生<br>
+ngだとnomask.wavを再生する.
